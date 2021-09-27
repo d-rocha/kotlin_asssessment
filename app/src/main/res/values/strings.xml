@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kotlin_assessment</string>
+    <string name="login">Login:</string>
+    <string name="password">Senha:</string>
+    <string name="register">Cadastrar</string>
+    <string name="username">Apelido:</string>
+    <string name="email">Email:</string>
+</resources>
